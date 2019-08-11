@@ -27,6 +27,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 There is security issues with the dependencies so make sure to update the dependencies if you're re-using the code.
 
-##License
-
-[General Public License](https://bg.wikipedia.org/wiki/GNU_General_Public_License)
