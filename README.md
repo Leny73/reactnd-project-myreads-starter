@@ -3,7 +3,6 @@
 
 MyReads is a Book tracking application which was build for the final assessment project for Udacity's Front-End Nanodegree, React Fundamentals [link](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001). This is an interactive digital library that lets you track the books that you have read, want to read and currently reading. You can search and organise your favourite books in your digital library.
 
-#Quickstart
 
 ## Installation
 * clone the repository with `git clone`
