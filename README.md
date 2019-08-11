@@ -12,8 +12,8 @@ MyReads is a Book tracking application which was build for the final assessment 
 
 ## Usage
  
-_You can search for Books pressing the + button on the bottom of the screen or navigating to appname/search_
-_You can put the books in your library from the search page directly_
+_You can search for Books pressing the + button on the bottom of the screen or navigating to appname/search._
+_You can put the books in your library from the search page directly into your digital library_
 
 
 ## Important
