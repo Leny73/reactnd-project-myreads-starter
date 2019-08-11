@@ -23,7 +23,7 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-##Issues
+## Issues
 
-There is security issues with the dependencies so make sure to update the dependencies if you're re-using the code.
+There are security issues with the dependencies so make sure to update the dependencies if you're re-using the code.
 
